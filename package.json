@@ -1,0 +1,28 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "node practise",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mythireyan/Node-Farm.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Mythireyan P",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mythireyan/Node-Farm/issues"
+  },
+  "homepage": "https://github.com/Mythireyan/Node-Farm#readme",
+  "dependencies": {
+    "slugify": "^1.6.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
